@@ -1,0 +1,28 @@
+/* Footer.css */
+
+.footer {
+    display: flex;
+    justify-content: space-around; 
+    align-items: center; 
+    padding: 10px; 
+    background-color: #f0f0f0;
+    position:absolute;
+    bottom: 0;
+    min-width: 350px;
+    max-width: 350px;
+  }
+  
+  .footer i {
+    font-size: 24px; 
+    color: #333;
+    transition: color 0.3s; 
+    width: 32px;
+    height: 32px;
+  }
+  
+  .footer i:hover {
+    /* background-color:  #539DF3;  */
+    color: #539DF3;
+/* border-radius: 35%;} */}
+    
+  
